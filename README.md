@@ -18,15 +18,9 @@ PC_B | NIC | 2001:db8:acad:a::3 | SLACC | 64 | fe80::1 |
 
 **Настройка маршрутизатора** 
 
-![image](https://github.com/user-attachments/assets/a75ba06c-2a1b-4e2a-bfb6-4512d806c4d9)  
+![image](https://github.com/user-attachments/assets/a75ba06c-2a1b-4e2a-bfb6-4512d806c4d9) 
 
-![image](https://github.com/user-attachments/assets/df0d045f-099a-44b5-b975-5deffc2ea6cf)   
-
-![image](https://github.com/user-attachments/assets/b0665f4a-e3c9-42bd-9b29-491bf40edc3a)  
-
-![image](https://github.com/user-attachments/assets/07fa28d0-75bd-4389-88e4-a4668318b404)
-
-![image](https://github.com/user-attachments/assets/34bb8bcd-f95c-4e1f-8c01-b6a8249f3d53)  
+![image](https://github.com/user-attachments/assets/e5065550-cd70-4eb0-9f07-561f9ac234ef)  
 
 **Натсройка коммутатора**  
 
@@ -35,9 +29,6 @@ PC_B | NIC | 2001:db8:acad:a::3 | SLACC | 64 | fe80::1 |
 ![image](https://github.com/user-attachments/assets/98203516-2d7c-480a-a0d4-624959118b59)
 
 
-![image](https://github.com/user-attachments/assets/326dcf3c-320e-4eac-99dd-8c14e7916611)  
-
-![image](https://github.com/user-attachments/assets/d2dd2375-2fb2-44f2-93fa-5dd45b7c8922)
 
 
 
