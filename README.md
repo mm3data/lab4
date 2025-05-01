@@ -48,7 +48,7 @@ PC_B | NIC | 2001:db8:acad:a::3 | SLACC | 64 | fe80::1 |
 
 ![image](https://github.com/user-attachments/assets/ec4e14cb-c54b-4248-be14-f09cc15febfe)  
 
-* На PC-B с помощью команды ipconfig  сотрим данные ip-адресов
+* На PC-B с помощью команды ipconfig  смотрим данные ip-адресов
 
 ![image](https://github.com/user-attachments/assets/2a03b944-15e1-4f98-9202-30788fed4ee3)  
 
@@ -64,7 +64,7 @@ _Нет_
 
 ![image](https://github.com/user-attachments/assets/fa5fd95e-9821-44e5-ab82-bf4869a978d1)  
 
-* Назначаем статичесий Ipv6-адреса компьтерам
+* Назначаем статический Ipv6-адреса компьтерам
 * Проверяем сквозное подключение  
 
 ![image](https://github.com/user-attachments/assets/bde2ec13-e123-41c1-826d-4ca78b172ead)  
